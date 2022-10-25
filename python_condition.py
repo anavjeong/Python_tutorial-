@@ -82,4 +82,5 @@ print("__________")
 for i in range(10):
     if 3<=i<=5:
         continue
+        break
     print(i)
