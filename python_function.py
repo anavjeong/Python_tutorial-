@@ -17,7 +17,7 @@
 # print(t)
 
 
-# def grade(in(score), name):
+# def grade(score, name):
 #     if score >= 90:
 #         print(name + '등급은 A입니다.') 
 #     if score >= 80:
@@ -35,16 +35,18 @@
 # input(grade(100,온유))
 
 
-grade =""
-def check_grade(성적) :
-    if 성적 >= 90:
-        grade = 'A'
-    elif 성적 >= 80:
-        grade = 'B'
+# grade =""
+# def check_grade(성적) :
+#     if 성적 >= 90:
+#         grade = 'A'
+#     elif 성적 >= 80:
+#         grade = 'B'
 
 
     
-    return grade
+#     return grade
 
-a = check_grade(100)
-print(a)
+# a = check_grade(100)
+# print(a)
+
+
